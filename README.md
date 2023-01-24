@@ -3,4 +3,4 @@ Function detect() compares two images(which have gone through some kind of image
 where greater value indicates higher similarity.
 Program is made in Processing and written in Java.
 
-Open README.PDF for more information.
+Open README.pdf for more information.
